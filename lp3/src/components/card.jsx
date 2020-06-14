@@ -32,7 +32,7 @@ const Card =(props)=>{
 
     return(
         <div className="col s12 l6">
-            <div className="card  light-blue darken-3">
+            <div className="card  light-green darken-3">
                 <div className="card-content white-text">
                     <SkeletonTheme color="#0288d1" highlightColor="#01579b">
                     <span className="card-title">

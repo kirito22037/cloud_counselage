@@ -7,7 +7,7 @@ const App =(props)=>{
   //render()
   //{
     return (
-      <div className="App  light-blue darken-4">
+      <div className="App  light-green darken-4">
         <div className="row">
         <div className="container section  blue-grey-text text-lighten-4">
           <h3>Date & Time</h3>
